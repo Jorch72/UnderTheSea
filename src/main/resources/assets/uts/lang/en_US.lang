@@ -1,0 +1,21 @@
+tile.seaweed.0.name=Black Seaweed
+tile.seaweed.1.name=Red Seaweed
+tile.seaweed.2.name=Green Seaweed
+tile.seaweed.3.name=Brown Seaweed
+tile.seaweed.4.name=Blue Seaweed
+tile.seaweed.5.name=Purple Seaweed
+tile.seaweed.6.name=Cyan Seaweed
+tile.seaweed.7.name=Light Gray Seaweed
+tile.seaweed.8.name=Gray Seaweed
+tile.seaweed.9.name=Pink Seaweed
+tile.seaweed.10.name=Lime Seaweed
+tile.seaweed.11.name=Yellow Seaweed
+tile.seaweed.12.name=Light Blue Seaweed
+tile.seaweed.13.name=Magenta Seaweed
+tile.seaweed.14.name=Oragne Seaweed
+tile.seaweed.15.name=White Seaweed
+
+tile.rock.0.name=Rocky Dirt
+tile.rock.1.name=Sandy Dirt
+
+item.blueberry.name=Berry

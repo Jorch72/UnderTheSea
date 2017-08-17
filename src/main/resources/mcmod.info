@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uts",
+  "name": "Under The Sea",
+  "description": "Adds Rocks and Seaweed for the Void Island mod.",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kashdeya"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
